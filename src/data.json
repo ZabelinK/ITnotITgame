@@ -1,0 +1,1307 @@
+[  
+   {  
+      "name":"ADC",
+      "definition":"Analog-to-Digital Conventer",
+      "isIT":true
+   },
+   {  
+      "name":"ABC",
+      "definition":"Atanasoff Berry Computer",
+      "isIT":true
+   },
+   {  
+      "name":"ACM",
+      "definition":"Association for Computing Machinery",
+      "isIT":true
+   },
+   {  
+      "name":"AI",
+      "definition":"Artificial Intelligence",
+      "isIT":true
+   },
+   {  
+      "name":"ALGOL",
+      "definition":"Algorithic Language",
+      "isIT":true
+   },
+   {  
+      "name":"ALU",
+      "definition":"Arithmetic Logic Unit",
+      "isIT":true
+   },
+   {  
+      "name":"AMD",
+      "definition":"Advanced Micro Devices",
+      "isIT":true
+   },
+   {  
+      "name":"APRANET",
+      "definition":"Advanced Research Project Agency Network",
+      "isIT":true
+   },
+   {  
+      "name":"ASCII",
+      "definition":"American Standard Code for Information Interchange",
+      "isIT":true
+   },
+   {  
+      "name":"BASIC",
+      "definition":"Beginners All-purpose Symbolic Instruction Code",
+      "isIT":true
+   },
+   {  
+      "name":"BCD",
+      "definition":"Binary Coded Decimal",
+      "isIT":true
+   },
+   {  
+      "name":"BIOS",
+      "definition":"Basic Inpute Output System",
+      "isIT":true
+   },
+   {  
+      "name":"BIPS",
+      "definition":"Billions of Instructions Per Second",
+      "isIT":true
+   },
+   {  
+      "name":"BPI",
+      "definition":"Bytes Per Inch",
+      "isIT":true
+   },
+   {  
+      "name":"CAD",
+      "definition":"Computer Aided Design",
+      "isIT":true
+   },
+   {  
+      "name":"CAE",
+      "definition":"Computer Aided Engineering",
+      "isIT":true
+   },
+   {  
+      "name":"CAN",
+      "definition":"Campus Area Network",
+      "isIT":true
+   },
+   {  
+      "name":"CASE",
+      "definition":"Computer Aided Software Engineering",
+      "isIT":true
+   },
+   {  
+      "name":"CD",
+      "definition":"Compact Disk",
+      "isIT":true
+   },
+   {  
+      "name":"CDC",
+      "definition":"Control Data Corporation",
+      "isIT":true
+   },
+   {  
+      "name":"CD-R",
+      "definition":"CD-Recordable",
+      "isIT":true
+   },
+   {  
+      "name":"CD-ROM",
+      "definition":"Compact Disk Read Only Memory",
+      "isIT":true
+   },
+   {  
+      "name":"CD-RW",
+      "definition":"CD Read/Write",
+      "isIT":true
+   },
+   {  
+      "name":"CL",
+      "definition":"Command Language",
+      "isIT":true
+   },
+   {  
+      "name":"CLI",
+      "definition":"Command Line Interface",
+      "isIT":true
+   },
+   {  
+      "name":"COBOL",
+      "definition":"Common Business Oriented",
+      "isIT":true
+   },
+   {  
+      "name":"CODASYL",
+      "definition":"Conference On Data Systems",
+      "isIT":true
+   },
+   {  
+      "name":"CPU",
+      "definition":"Central Processing Unit",
+      "isIT":true
+   },
+   {  
+      "name":"CRT",
+      "definition":"Cathode Ray Tube",
+      "isIT":true
+   },
+   {  
+      "name":"DAC",
+      "definition":"Digital-to-Analog Converter",
+      "isIT":true
+   },
+   {  
+      "name":"DAT",
+      "definition":"Digital Audio Tape",
+      "isIT":true
+   },
+   {  
+      "name":"DBMS",
+      "definition":"Data Base Management System",
+      "isIT":true
+   },
+   {  
+      "name":"DBS",
+      "definition":"Demand Based Switching",
+      "isIT":true
+   },
+   {  
+      "name":"DDL",
+      "definition":"Data Definition Language",
+      "isIT":true
+   },
+   {  
+      "name":"DDS",
+      "definition":"Digital Data Storage",
+      "isIT":true
+   },
+   {  
+      "name":"DEC",
+      "definition":"Digital Equipment Corporation",
+      "isIT":true
+   },
+   {  
+      "name":"DMA",
+      "definition":"Direct Memory Access",
+      "isIT":true
+   },
+   {  
+      "name":"DNA",
+      "definition":"Digital Network Architecture",
+      "isIT":true
+   },
+   {  
+      "name":"DPI",
+      "definition":"Dots Per Inch",
+      "isIT":true
+   },
+   {  
+      "name":"DRAM",
+      "definition":"Dynamic RAM (Random Access Memory)",
+      "isIT":true
+   },
+   {  
+      "name":"DSN",
+      "definition":"Distributed Systems Network",
+      "isIT":true
+   },
+   {  
+      "name":"DTS",
+      "definition":"Digital Theater System",
+      "isIT":true
+   },
+   {  
+      "name":"DVD",
+      "definition":"Digital Video/Versatile Disk",
+      "isIT":true
+   },
+   {  
+      "name":"EBCDIC",
+      "definition":"Extended Binary Coded Decimal Interchange Code",
+      "isIT":true
+   },
+   {  
+      "name":"EDSAC",
+      "definition":"Electronic Delay Storage Automatic Calculator",
+      "isIT":true
+   },
+   {  
+      "name":"EDVAC",
+      "definition":"Electronic Discrete Variable Automatic Calculator",
+      "isIT":true
+   },
+   {  
+      "name":"EFM",
+      "definition":"Eight-to-Fourteen Modulation",
+      "isIT":true
+   },
+   {  
+      "name":"ENIAC",
+      "definition":"Electronic Numerical Integrator And Calculator",
+      "isIT":true
+   },
+   {  
+      "name":"EPG",
+      "definition":"Electronic Programming Guide",
+      "isIT":true
+   },
+   {  
+      "name":"EPIC",
+      "definition":"Explicitly Parallel Instruction Computing",
+      "isIT":true
+   },
+   {  
+      "name":"EPROM",
+      "definition":"Erasable Programmable Read-Only Memory",
+      "isIT":true
+   },
+   {  
+      "name":"FAT",
+      "definition":"File Allocation Table",
+      "isIT":true
+   },
+   {  
+      "name":"FDM",
+      "definition":"Frequency Division Multiplexing",
+      "isIT":true
+   },
+   {  
+      "name":"FEP",
+      "definition":"Front End Processor",
+      "isIT":true
+   },
+   {  
+      "name":"FLOPS",
+      "definition":"Floating Point Operations Per Second",
+      "isIT":true
+   },
+   {  
+      "name":"FM",
+      "definition":"Frequency Modulation",
+      "isIT":true
+   },
+   {  
+      "name":"FMS",
+      "definition":"File Management System",
+      "isIT":true
+   },
+   {  
+      "name":"FORTRAN",
+      "definition":"FORmula TRANslation",
+      "isIT":true
+   },
+   {  
+      "name":"FSK",
+      "definition":"Frequency Shift Keying",
+      "isIT":true
+   },
+   {  
+      "name":"FTP",
+      "definition":"File Transfer Protocol",
+      "isIT":true
+   },
+   {
+      "name" : "GCC",
+      "definition" : "GNU Linus Compiler",
+      "isIT" : true
+   },
+   {  
+      "name":"GB",
+      "definition":"Giga Bytes",
+      "isIT":true
+   },
+   {  
+      "name":"GFLOPS",
+      "definition":"Giga FLOPS",
+      "isIT":true
+   },
+   {  
+      "name":"GHz",
+      "definition":"Giga Hertz",
+      "isIT":true
+   },
+   {  
+      "name":"GNU",
+      "definition":"Gnu Not Unix",
+      "isIT":true
+   },
+   {  
+      "name":"GPRS",
+      "definition":"General Packet Radio Service",
+      "isIT":true
+   },
+   {  
+      "name":"GSM",
+      "definition":"Global System for Mobile communication",
+      "isIT":true
+   },
+   {  
+      "name":"GUI",
+      "definition":"Graphical User Interface",
+      "isIT":true
+   },
+   {
+      "name" : "HDD",
+      "definition" : "Hard disk drive", 
+      "isIT" : true
+   },
+   {
+      "name" : "NVMe",
+      "definition" : "Non-Volatile Memory",
+      "isIT" : true
+   },
+   {  
+      "name":"HP",
+      "definition":"Hewlett Packard",
+      "isIT":true
+   },
+   {  
+      "name":"HSS",
+      "definition":"Hierarchical Storage System",
+      "isIT":true
+   },
+   {  
+      "name":"HTML",
+      "definition":"HyperText Markup Language",
+      "isIT":true
+   },
+   {  
+      "name":"HTTP",
+      "definition":"HyperText Transport Protocol",
+      "isIT":true
+   },
+   {  
+      "name":"IBM",
+      "definition":"International Business Machine",
+      "isIT":true
+   },
+   {  
+      "name":"IC",
+      "definition":"Integrated Circuit",
+      "isIT":true
+   },
+   {  
+      "name":"IDN",
+      "definition":"Integrated Digital Networks",
+      "isIT":true
+   },
+   {  
+      "name":"IP",
+      "definition":"Internet Protocol",
+      "isIT":true
+   },
+   {  
+      "name":"IrDA",
+      "definition":"Infrared Data Association",
+      "isIT":true
+   },
+   {  
+      "name":"ISDN",
+      "definition":"Integrated Services Digital Network",
+      "isIT":true
+   },
+   {  
+      "name":"ISP",
+      "definition":"Internet Service Provider",
+      "isIT":true
+   },
+   {
+      "name" : "IoT",
+      "definition" : "Internet of Things",
+      "isIT" : true
+   },
+   {  
+      "name":"JPEG",
+      "definition":"Joint Photographic Experts Group",
+      "isIT":true
+   },
+   {  
+      "name":"JRE",
+      "definition":"Java Runtime Engine",
+      "isIT":true
+   },
+   {  
+      "name":"JSP",
+      "definition":"Java Server Pages",
+      "isIT":true
+   },
+   {  
+      "name":"KB",
+      "definition":"Kilo Bytes",
+      "isIT":true
+   },
+   {  
+      "name":"KHz",
+      "definition":"Kilo Hertz",
+      "isIT":true
+   },
+   {  
+      "name":"LAN",
+      "definition":"Local Area Network",
+      "isIT":true
+   },
+   {  
+      "name":"LCD",
+      "definition":"Liquid Crystal Display",
+      "isIT":true
+   },
+   {  
+      "name":"LED",
+      "definition":"Light Emitting Diode",
+      "isIT":true
+   },
+   {  
+      "name":"LPM",
+      "definition":"Line Per Minute",
+      "isIT":true
+   },
+   {  
+      "name":"LSI",
+      "definition":"Large Scael Integration",
+      "isIT":true
+   },
+   {  
+      "name":"MAN",
+      "definition":"Metropolitan Area Network",
+      "isIT":true
+   },
+   {  
+      "name":"MAR",
+      "definition":"Memory Address Register",
+      "isIT":true
+   },
+   {  
+      "name":"MB",
+      "definition":"Mega Bytes",
+      "isIT":true
+   },
+   {  
+      "name":"MBR",
+      "definition":"Memory Buffer Register",
+      "isIT":true
+   },
+   {  
+      "name":"MHz",
+      "definition":"Mega Hertz",
+      "isIT":true
+   },
+   {  
+      "name":"MIDI",
+      "definition":"Musical Instrument Digital Interface",
+      "isIT":true
+   },
+   {  
+      "name":"MIPS",
+      "definition":"Millions of Instructions Per Second",
+      "isIT":true
+   },
+   {  
+      "name":"MNP",
+      "definition":"Microcom Network Protocol",
+      "isIT":true
+   },
+   {  
+      "name":"MPEG",
+      "definition":"Moving Pictures Experts Group",
+      "isIT":true
+   },
+   {  
+      "name":"MS-DOS",
+      "definition":"MicroSoft Disk Operating System",
+      "isIT":true
+   },
+   {  
+      "name":"MVT",
+      "definition":"Multiprogramming with Variable Tasks",
+      "isIT":true
+   },
+   {  
+      "name":"NIC",
+      "definition":"Network Interface Card",
+      "isIT":true
+   },
+   {  
+      "name":"NICNET",
+      "definition":"National Informatics Center NETwork",
+      "isIT":true
+   },
+   {  
+      "name":"NOS",
+      "definition":"Network Operating System",
+      "isIT":true
+   },
+   {  
+      "name":"OCR",
+      "definition":"Optical Character Recognition",
+      "isIT":true
+   },
+   {  
+      "name":"OMR",
+      "definition":"Optical Mark Reader",
+      "isIT":true
+   },
+   {  
+      "name":"OS",
+      "definition":"Operating System",
+      "isIT":true
+   },
+   {  
+      "name":"OSI",
+      "definition":"Open System Interconnection",
+      "isIT":true
+   },
+   {  
+      "name":"OSS",
+      "definition":"Open Source Software",
+      "isIT":true
+   },
+   {  
+      "name":"PAN",
+      "definition":"Personal Area Network",
+      "isIT":true
+   },
+   {  
+      "name":"PC",
+      "definition":"Personal Computer",
+      "isIT":true
+   },
+   {  
+      "name":"PDF",
+      "definition":"Portable Document Format",
+      "isIT":true
+   },
+   {  
+      "name":"PDL",
+      "definition":"Program Design Language",
+      "isIT":true
+   },
+   {  
+      "name":"PDP",
+      "definition":"Program Data Processor",
+      "isIT":true
+   },
+   {  
+      "name":"PIP",
+      "definition":"Peripheral Interchange Program",
+      "isIT":true
+   },
+   {  
+      "name":"PROM",
+      "definition":"Programmable Read-Only Memory",
+      "isIT":true
+   },
+   {  
+      "name":"QoS",
+      "definition":"Quality of Service",
+      "isIT":true
+   },
+   {  
+      "name":"RAM",
+      "definition":"Random Access Memory",
+      "isIT":true
+   },
+   {  
+      "name":"ROM",
+      "definition":"Read Only Memory",
+      "isIT":true
+   },
+   {  
+      "name":"SDLC",
+      "definition":"Software Development Life Cycle",
+      "isIT":true
+   },
+   {  
+      "name":"SEQUEL",
+      "definition":"Structured English QUEry Language",
+      "isIT":true
+   },
+   {  
+      "name":"SGML",
+      "definition":"Syntax for Generalized Markup Language",
+      "isIT":true
+   },
+   {  
+      "name":"SIMM",
+      "definition":"Single In-line Memory Module",
+      "isIT":true
+   },
+   {  
+      "name":"SNA",
+      "definition":"Systems Network Architecture",
+      "isIT":true
+   },
+   {  
+      "name":"SNOBOL",
+      "definition":"StriNg Oriented and symBOlic Language",
+      "isIT":true
+   },
+   {  
+      "name":"SQL",
+      "definition":"Structured Query Language",
+      "isIT":true
+   },
+   {
+      "name" : "SSD",
+      "definition" : "solid-state drive",
+      "isIT" : true
+   },
+   {  
+      "name":"SRAM",
+      "definition":"Static RAM",
+      "isIT":true
+   },
+   {  
+      "name":"SSI",
+      "definition":"Small Scale Integration",
+      "isIT":true
+   },
+   {  
+      "name":"TB",
+      "definition":"Tera Bytes",
+      "isIT":true
+   },
+   {  
+      "name":"TCP",
+      "definition":"Transport Control Protocol",
+      "isIT":true
+   },
+   {  
+      "name":"TDM",
+      "definition":"Time Division Multiplexing",
+      "isIT":true
+   },
+   {  
+      "name":"UDP",
+      "definition":"User Datagram Protocol",
+      "isIT":true
+   },
+   {  
+      "name":"ULSI",
+      "definition":"Ultra Large Scale Integration",
+      "isIT":true
+   },
+   {  
+      "name":"UPC",
+      "definition":"Universal Product Code",
+      "isIT":true
+   },
+   {  
+      "name":"URL",
+      "definition":"Uniform Resource Locator",
+      "isIT":true
+   },
+   {  
+      "name":"USB",
+      "definition":"Universal Serial Bus",
+      "isIT":true
+   },
+   {  
+      "name":"UTF",
+      "definition":"Unicode Transformation Format",
+      "isIT":true
+   },
+   {  
+      "name":"VAN",
+      "definition":"Value Added Network",
+      "isIT":true
+   },
+   {  
+      "name":"VCR",
+      "definition":"Video Cassette Recorder",
+      "isIT":true
+   },
+   {  
+      "name":"VDT",
+      "definition":"Video Display Terminal",
+      "isIT":true
+   },
+   {  
+      "name":"VGA",
+      "definition":"Video Graphics Array",
+      "isIT":true
+   },
+   {  
+      "name":"VOD",
+      "definition":"Video-On-Demand",
+      "isIT":true
+   },
+   {  
+      "name":"VoIP",
+      "definition":"Voice over Internet Protocol",
+      "isIT":true
+   },
+   {  
+      "name":"VSAT",
+      "definition":"Very Small Aperture Terminal",
+      "isIT":true
+   },
+   {  
+      "name":"WAN",
+      "definition":"Wide Area Network",
+      "isIT":true
+   },
+   {  
+      "name":"WAP",
+      "definition":"Wireless Application Protocol",
+      "isIT":true
+   },
+   {  
+      "name":"WiMAX",
+      "definition":"Worldwide Interoperability for Microwave Access",
+      "isIT":true
+   },
+   {  
+      "name":"WLAN",
+      "definition":"Wireless Local Area Network",
+      "isIT":true
+   },
+   {  
+      "name":"WLL",
+      "definition":"Wireless Local Loop",
+      "isIT":true
+   },
+   {  
+      "name":"WORM",
+      "definition":"Write Once Read Many",
+      "isIT":true
+   },
+   {  
+      "name":"WWW",
+      "definition":"World Wide Web",
+      "isIT":true
+   },
+   {  
+      "name":"XHTML",
+      "definition":"eXtensible HyperText Markup Language",
+      "isIT":true
+   },
+   {  
+      "name":"XML",
+      "definition":"eXtensible Markup Language",
+      "isIT":true
+   },
+   {  
+      "name":"AIDS",
+      "definition":"acquired immune deficiency syndrome",
+      "isIT":false
+   },
+   {  
+      "name":"ASR",
+      "definition":"Acceleration Slip Regulation",
+      "isIT":false
+   },
+   {  
+      "name":"ATL",
+      "definition":"above-the-line",
+      "isIT":false
+   },
+   {  
+      "name":"BLV",
+      "definition":"bovine leukaemia virus",
+      "isIT":false
+   },
+   {  
+      "name":"BMI",
+      "definition":"body mass index",
+      "isIT":false
+   },
+   {  
+      "name":"BRK",
+      "definition":"baby-rat kidney",
+      "isIT":false
+   },
+   {  
+      "name":"C",
+      "definition":"Core protein",
+      "isIT":false
+   },
+   {  
+      "name":"CCA",
+      "definition":"cholangiocarcinoma",
+      "isIT":false
+   },
+   {  
+      "name":"CI",
+      "definition":"Continuous Integration",
+      "isIT":true
+   },
+   {  
+      "name":"CLL/SLL",
+      "definition":"chronic lymphocytic leukaemia/small lymphocytic lymphoma",
+      "isIT":false
+   },
+   {  
+      "name":"CTAR",
+      "definition":"C-terminal activation region",
+      "isIT":false
+   },
+   {  
+      "name":"CTL",
+      "definition":"Champions Tennis League",
+      "isIT":false
+   },
+   {  
+      "name":"DS",
+      "definition":"dyad symmetry",
+      "isIT":false
+   },
+   {  
+      "name":"EBV",
+      "definition":"Epstein-Barr virus",
+      "isIT":false
+   },
+   {  
+      "name":"EGF",
+      "definition":"epidermal growth factor",
+      "isIT":false
+   },
+   {  
+      "name":"EGFR",
+      "definition":"epidermal growth-factor receptor",
+      "isIT":false
+   },
+   {  
+      "name":"EMT",
+      "definition":"epithelial-to-mesenchymal transdifferentiation",
+      "isIT":false
+   },
+   {  
+      "name":"EST",
+      "definition":"Expressed Sequence Tag",
+      "isIT":false
+   },
+   {  
+      "name":"EV",
+      "definition":"epidermodysplasia verruciformis",
+      "isIT":false
+   },
+   {  
+      "name":"FLIP",
+      "definition":"FLICE (Caspase-8)-inhibitory protein",
+      "isIT":false
+   },
+   {  
+      "name":"FR",
+      "definition":"family of repeats",
+      "isIT":false
+   },
+   {  
+      "name":"GR",
+      "definition":"glutathione reductase",
+      "isIT":false
+   },
+   {  
+      "name":"GRE",
+      "definition":"glucocorticoid responsive element",
+      "isIT":false
+   },
+   {  
+      "name":"HAART",
+      "definition":"Highly Active Anti-Retroviral Therapy",
+      "isIT":false
+   },
+   {  
+      "name":"HAV",
+      "definition":"hepatitis A virus",
+      "isIT":false
+   },
+   {  
+      "name":"HDL",
+      "definition":"High Density Lipoprotein",
+      "isIT":false
+   },
+   {  
+      "name":"HGF",
+      "definition":"hepatocyte growth factor",
+      "isIT":false
+   },
+   {  
+      "name":"HIV",
+      "definition":"Human immunodeficiency virus",
+      "isIT":false
+   },
+   {  
+      "name":"HPV",
+      "definition":"Human papilloma virus",
+      "isIT":false
+   },
+   {  
+      "name":"HRC",
+      "definition":"Hodgkin and Reed-Sternberg cells",
+      "isIT":false
+   },
+   {  
+      "name":"IGF",
+      "definition":"insulin-growth factor",
+      "isIT":false
+   },
+   {  
+      "name":"iNOS",
+      "definition":"inducible nitric oxide synthase",
+      "isIT":false
+   },
+   {  
+      "name":"IRS",
+      "definition":"insulin receptor substrates,",
+      "isIT":false
+   },
+   {  
+      "name":"ISDR",
+      "definition":"interferon sensitivity determining region",
+      "isIT":false
+   },
+   {  
+      "name":"TM",
+      "definition":"Transactivation Motif",
+      "isIT":false
+   },
+   {  
+      "name":"LCR",
+      "definition":"long control region",
+      "isIT":false
+   },
+   {  
+      "name":"LMP",
+      "definition":"latent membrane proteins",
+      "isIT":false
+   },
+   {  
+      "name":"LTR",
+      "definition":"long terminal repeat",
+      "isIT":false
+   },
+   {  
+      "name":"MALT",
+      "definition":"mucosa-associated lymphoid tissue",
+      "isIT":false
+   },
+   {  
+      "name":"MAPK",
+      "definition":"Mitogen Activated Protein Kinase",
+      "isIT":false
+   },
+   {  
+      "name":"MGUS",
+      "definition":"monoclonal gammopathy of undetermined significance",
+      "isIT":false
+   },
+   {  
+      "name":"MHC",
+      "definition":"major histocompatibility complex",
+      "isIT":false
+   },
+   {  
+      "name":"NAFLD",
+      "definition":"non-alcoholic fatty liver disease",
+      "isIT":false
+   },
+   {  
+      "name":"NRE",
+      "definition":"negative regulatory element",
+      "isIT":false
+   },
+   {  
+      "name":"NSI",
+      "definition":"non-syncytia-inducing",
+      "isIT":false
+   },
+   {  
+      "name":"OR",
+      "definition":"odds ratio",
+      "isIT":false
+   },
+   {  
+      "name":"ORC",
+      "definition":"origin recognition complexes",
+      "isIT":false
+   },
+   {  
+      "name":"PAH",
+      "definition":"polycyclic aromatic hydrocarbons",
+      "isIT":false
+   },
+   {  
+      "name":"PBMC",
+      "definition":"peripheral blood mononuclear cells",
+      "isIT":false
+   },
+   {  
+      "name":"PCNA",
+      "definition":"proliferating cell nuclear antigen",
+      "isIT":false
+   },
+   {  
+      "name":"PCR",
+      "definition":"polymerase chain reaction",
+      "isIT":false
+   },
+   {  
+      "name":"POR",
+      "definition":"prevalence odds ratios",
+      "isIT":false
+   },
+   {  
+      "name":"QNG",
+      "definition":"quantitative nuclear grading",
+      "isIT":false
+   },
+   {  
+      "name":"RT",
+      "definition":"reverse transcriptase",
+      "isIT":false
+   },
+   {  
+      "name":"SEER",
+      "definition":"Surveillance, Epidemiology and End Results",
+      "isIT":false
+   },
+   {  
+      "name":"SIGN",
+      "definition":"Safe Injection Global Network",
+      "isIT":false
+   },
+   {  
+      "name":"SIR",
+      "definition":"standardized incidence ratio",
+      "isIT":false
+   },
+   {  
+      "name":"SIV",
+      "definition":"simian immunodeficiency virus",
+      "isIT":false
+   },
+   {  
+      "name":"SMR",
+      "definition":"standardized mortality ratios",
+      "isIT":false
+   },
+   {  
+      "name":"SNP",
+      "definition":"single nucleotide polymorphisms",
+      "isIT":false
+   },
+   {  
+      "name":"VEGF",
+      "definition":"vascular endothelial growth factor",
+      "isIT":false
+   },
+   {  
+      "name":"WHV",
+      "definition":"woodchuck hepatitis virus",
+      "isIT":false
+   },
+   {
+      "name" : "WTO",
+      "definition" : "World Trade Organization",
+      "isIT" : false
+   },
+   {
+      "name" : "USP",
+      "definition" : "Unique Selling Proposition",
+      "isIT" : false
+   },
+   {
+      "name" : "PPP",
+      "definition" : "Public-private partnership",
+      "isIT" : false
+   },
+   {
+      "name" : "PFI",
+      "definition" : "Private Finance Initiative",
+      "isIT" : false
+   },
+   {
+      "name" : "OPEX",
+      "definition" : "Operating Expenditure",
+      "isIT" : false
+   },
+   {
+      "name" : "OEM",
+      "definition" : "Original Equipment Manufacturer",
+      "isIT" : false
+   },
+   {
+      "name" : "OCF",
+      "definition" : "Operating cash flow",
+      "isIT" : false
+   },
+   {
+      "name" : "MWC", 
+      "definition" : "Managerial Working Capital",
+      "isIT" : false
+   },
+   {
+      "name" : "ISIN",
+      "definition" : "International Securities Identification Number",
+      "isIT" : false
+   },
+   {
+      "name" : "IFRS",
+      "definition" : "International Financial Reporting Standard",
+      "isIT" : false
+   },
+   {
+      "name" : "GFCF",
+      "definition" : "Gross fixed capital formation",
+      "isIT" : false
+    },
+    {
+      "name" : "GDPR",
+      "definition" : "General Data Protection Regulation",
+      "isIT" : false
+    },
+    {
+      "name" : "FOMC",
+      "definition" : "Federal Open Market Committee",
+      "isIT" : false
+    },
+    {
+      "name" : "ECGC",
+      "definition" : "Export Credit Guarantee Corporation",
+      "isIT" : false
+    },
+    {
+      "name" : "EFTPOS",
+      "definition" : "Electronic Funds Transfer at Point of Sale",
+      "isIT" : false
+    },
+    {
+      "name" : "EFSM",
+      "definition" : "European Financial Stabilisation Mechanism",
+      "isIT" : false
+    },
+    {
+      "name" : "CISO", 
+      "definition" : "Chief Information Security Officer",
+      "isIT" : true 
+    },
+    {
+      "name" : "B2B",
+      "definition" : "Business-to-business",
+      "isIT" : false
+    },
+    {
+      "name" : "B2C",
+      "definition" : "Business to Consumer",
+      "isIT" : false
+    },
+    {
+      "name" : "B2G",
+      "definition" : "Business-to-government",
+      "isIT" : false
+    },
+    {
+      "name" : "NAFTA",
+      "definition" : "North American Free Trade Agreement",
+      "isIT" : false
+    },
+    {
+      "name" : "NYPSC",
+      "definition" : "New York Public Service Commission",
+      "isIT" : false
+    },
+    {
+      "name" : "PLMA",
+      "definition" : "Peak Load Management Association",
+      "isIT" : false
+    },
+    {
+      "name" : "POLES",
+      "definition" : "Prospective On Long Term Energy Systems",
+      "isIT" : false
+    },
+    {
+      "name" : "RCRA",
+      "definition" : "Resource Conservation and Recovery Act",
+      "isIT" : false
+    },
+    {
+      "name" : "UHVDC",
+      "definition" : "Ultra High Voltage Direct Current",
+      "isIT" : false
+    }, 
+    {
+      "name" : "MINHERS",
+      "definition" : "Mortgage Industry National Home Energy Rating Systems Standards",
+      "isIT" : false
+    },
+    {
+      "name" : "DFTBA",
+      "definition" : "Don’t forget to be awesome",
+      "isIT" : false
+    },
+    {
+      "name" : "NATO", 
+      "definition" : "North Atlantic Treaty Organization",
+      "isIT" : false
+    },
+    {
+       "name" : "ASCAR",
+       "definition" : "Archaeological Site Condition Assessment Record",
+       "isIT" : false
+    }, 
+   {
+      "name" : "MAHRI",
+      "definition" : "Maritime Archaeological and Historical Research Institute",
+      "isIT" : false
+   },
+   {
+      "name" : "ARMOR",
+      "definition" : "Advanced Radar for Meteorological and Operational Research",
+      "isIT" : false
+   },
+   {
+      "name" : "CAPM",
+      "definition" : "Capital asset pricing model",
+      "isIT" : false
+   },
+   {
+      "name" : "PMAC",
+      "definition" : "Period Moving Average Cost",
+      "isIT" : false
+   },
+   {
+      "name" : "NYMEX",
+      "definition" : "New York Mercantile Exchange",
+      "isIT" : false
+   },
+   {
+      "name" : "MSRP",
+      "definition" : "Manufacturer's Suggested Retail Price",
+      "isIT" : false 
+   },
+   {
+      "name" : "ISIN",
+      "definition" : "International Securities Identification Number",
+      "isIT" : false
+   },
+   {
+      "name" : "FOMC",
+      "definition" : "Federal Open Market Committee",
+      "isIT" : false
+   },
+   {
+      "name" : "EFTPOS",
+      "definition" : "Electronic Funds Transfer at Point of Sale",
+      "isIT" : false
+   },
+   {
+      "name" : "CISA",
+      "definition" : "Certified Information Systems Auditor",
+      "isIT" : true
+   },
+   {
+      "name" : "ASRT",
+      "definition" : "American Society of Radiologic Technologists",
+      "isIT" : false
+   },
+   {
+      "name" : "HPCSA",
+      "definition" : "Health Professions Council of South Africa",
+      "isIT" : false
+   },
+   {
+      "name" : "USMLE",
+      "definition" : "United States Medical Licensing Examination",
+      "isIT" : false
+   }
+]
