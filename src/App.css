@@ -55,9 +55,9 @@
 }
 
 .Text-left {
-  position: absolute;
+  position: relative;
   width: 45vmax;
-  left: 10%;
+  left: 0;
   top: 10%;
 }
 

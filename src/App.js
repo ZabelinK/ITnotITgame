@@ -74,13 +74,6 @@ class App extends Component {
   }
   
   checkName () {
-    const size = Object.values(this.state.records).length;
-    for (let i = 0; i < size; ++i) {
-      if (this.state.currentName.toUpperCase() === this.state.records[i].name.toUpperCase()) {
-        this.setState( {nameAlredyExist : true} );
-        return;
-      }
-    }
     this.runGame();
   }
 
@@ -156,10 +149,6 @@ class App extends Component {
   }
 
   runGame() {
-    if (this.state.currentName === "" || this.state.currentName.length > 50) {
-      this.setState( {errorName : true} );
-      return;
-    }
     this.setState(
       { 
         errorName : false,
@@ -236,13 +225,6 @@ class App extends Component {
   }
 
   componentDidMount() {
-    axios.get('http://127.0.0.1:6060/records')
-      .then(response => {
-        this.setState({records : response.data })
-      })
-      .catch(function (error) {
-        console.log(error);
-      })
     document.addEventListener("keydown", this.handlePressEvent);
   }
 
@@ -291,13 +273,6 @@ class App extends Component {
       "name" : this.state.currentName,  
       "score" : this.state.currentScore
     };
-
-    axios.post('http://127.0.0.1:6060/records', JSON.stringify(newRecord));
-
-    axios.get('http://127.0.0.1:6060/records')
-      .then(response => {
-        this.setState({records : response.data })
-      })
   }
 
   updateName = (event) => {
@@ -384,12 +359,9 @@ class App extends Component {
     if (this.state.st === "start") {
       return (
         <div className="Text-left">
-          {this.recordTable()}
           <p>Определи, относится ли данная aббревиатура к IT или нет</p>
           <p>Используй ←, если да и →, если нет</p>
           <FormControl>
-            <Input autoFocus='true' value={this.state.currentName} error={this.state.errorName} 
-              variant='raised' placeholder="Name" onChange={this.updateName}></Input>
             <br></br>
             <div>
               <Button variant="raised" color="primary" onClick={this.checkName}>Start</Button>
@@ -420,7 +392,6 @@ class App extends Component {
     else if (this.state.st === "over") {
       return (
         <div>
-          {this.recordTable()}
           <div className="Text-left">
             <img src={gameOverLogo} className="Game-over"></img>
             <br></br>
